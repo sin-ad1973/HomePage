@@ -7,7 +7,7 @@ var myfunc = function(a, b) {
 
 describe('テスト', function () {
     it('myfuncのテスト', function () {
-        assert.strictEqual(myfunc(1, 2), 3);
+        assert.strictEqual(myfunc(1, 2), 5);
     });
 });
 
